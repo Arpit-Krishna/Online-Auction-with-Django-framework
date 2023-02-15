@@ -1,0 +1,36 @@
+#wrap{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #17478f;
+    padding-bottom: 15px;
+}
+#wrap button{
+    background-color: rgb(255, 149, 0);
+    color: white;
+    padding: 8px 20px;
+    border: 0ch;
+    border-radius: 6px;
+    
+}
+
+.footer{
+    background-color: #17478f;
+    text-decoration: none;
+    padding: 30px;
+}
+.footer a{
+    text-decoration: none;
+    color: white;  
+    padding: 10px;
+    padding-left: 35px;
+    text-align: center;
+    
+}
+.c{
+    color: white;
+    background-color: black;
+    padding-left: 20px;
+}
+.a{
+    padding-left: 150px;
+}
